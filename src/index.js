@@ -12,4 +12,4 @@ window.Intercom("boot", {
 	app_id: "nzh63oaa"
 })
 
-window.intercomClient = new IntercomClient.Client({ token: 'dG9rOmRiNDRhM2ExXzc2MjNfNDkzNF84MWE4Xzk2NmU4ZmI5YWRmYjoxOjA=' });
+window.intercomClient = new IntercomClient.Client({ token: '********************Enter_Your_Tocken*********************' });
